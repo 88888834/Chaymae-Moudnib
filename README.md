@@ -1,81 +1,70 @@
-# Chaymae Moudnib
+# 👋 Hi, I'm [Your Name]
 
-<h1 align="center">Hi there 👋, I'm Chaymae Moudnib</h1>
+### **Machine Learning Engineer | Data Scientist | AI Architect | Business Analyst**
 
-<h3 align="center">A passionate Data Scientist and Analyst from Morocco</h3>
+---
 
-🌱 **Currently mastering:**
-- Data Analytics
-- Java
-- PHP & Laravel
-- JavaScript, HTML & CSS
-- SQL & Oracle
+##  Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chaymaemoudnibe@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://main--chaymae-moudnib.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moudnib-chaymae-73a849224/)
 
-📫 **Contact me at:** moudnib.cha.fst@uhp.ac.ma
+---
 
-**Other Interests:**
-- Drawing
-- Painting
-- Reading
+##  Professional Overview
+I am a hybrid professional specialized in the end-to-end data lifecycle. My expertise lies in bridging the gap between high-level **Business Analysis** and technical **AI Engineering**. I don't just build models; I build solutions that optimize KPIs and drive measurable ROI.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moudnib-chaymae-73a849224" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/chaymae_moud" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://fb.com/chaymae.moudnib" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/chaymae_moudnib" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://discord.gg/chamaaa88" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-</p>
+
+* **Business Analysis:** Requirement gathering, KPI definition, and stakeholder management.
+* **Data Science:** Statistical modeling, hypothesis testing, and exploratory data analysis (EDA).
+* **AI/ML Engineering:** Designing, training, and deploying deep learning and transformer models.
+* **MLOps:** Containerization, CI/CD for ML, and model monitoring in production.
+
+---
+
+##  Technical Toolkit
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), R, SQL, C++, Bash |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Scikit-learn, HuggingFace, XGBoost |
+| **Data Engineering** | Spark, Kafka, Airflow, SQL Server, MongoDB, Pinecone |
+| **Business Intelligence** | Tableau, Power BI, Looker, Advanced Excel |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS (SageMaker), GCP (Vertex AI), MLflow |
+
+---
+
+##  Impact & Metrics
+> **Strategic Value:** My approach ensures that every model is tied to a business objective. Whether it's reducing churn by **X%** or automating workflows to save **Y hours**, I prioritize impact over complexity.
+
+---
+
+##  Featured Projects
+
+###  [Project Title: e.g., LLM-Based Document Intelligence]
+* **Objective:** Automate data extraction from legal documents.
+* **Tech Stack:** LangChain, OpenAI API, Vector Databases.
+* **Outcome:** Improved processing speed by 40% with 95% accuracy.
+* [ View Repository]
+
+###  [Project Title: Predictive Revenue Modeling]
+* **Objective:** Forecast quarterly sales for a retail chain.
+* **Tech Stack:** Prophet, Scikit-learn, SQL, Power BI.
+* **Outcome:** Reduced forecasting error by 12% compared to legacy methods.
+* [ View Repository]
+
+---
+
+##  GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=nord)
+
+---
+
+##  Current Focus
+*  **Exploring:** Advanced RAG (Retrieval-Augmented Generation) architectures.
+*  **Optimizing:** Scalable MLOps pipelines for real-time inference.
+* 🤝 **Collaborating:** Always open to discussing data-driven business strategies.
+
+---
